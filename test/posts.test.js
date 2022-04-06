@@ -8,3 +8,4 @@ describe("Calling /posts with GET", () => {
         expect(response.status).toBe(200);
     });
 });
+
